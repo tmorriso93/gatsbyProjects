@@ -14,7 +14,7 @@ export default {
     },
     breakpoints: {
         mobile: "only screen and (max-width: 50rem)",
-        tablets: "only screen and (max-width: 65rem)",
+        tablet: "only screen and (max-width: 65rem)",
     },
     spacings: {
         xxSmall: ".25rem",
@@ -30,6 +30,6 @@ export default {
         link: "color 0.2s ease",
     },
     shadows: {
-        shadow1: "0px 5px 20px rgba(30, 30, 31, 0.05)",
+        shadow1: "(0px 5px 20px rgba(30, 30, 31, 0.05)",
     }, 
 }
